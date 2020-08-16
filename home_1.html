@@ -1,0 +1,14 @@
+<body>
+<div class="login">
+	<h1>Predict Insurance Bill</h1>
+	
+	
+	<!-- From to enter new data for predictions -->
+	<form action="{{ url_for('predict')"method="POST">
+		<input type="text" name="Number of times pregnant" placeholder="Number of times pregnant" required="required" /><br>
+			<input type="text" name="Plasma glucose concentration a 2 hours in an oral glucose tolerance test" placeholder="Plasma glucose concentration a 2 hours in an oral glucose tolerance test" required="required" /><br>
+			<input type="text" name="Diastolic blood pressure (mm Hg)" placeholder="Diastolic blood pressure (mm Hg)" required="required" /><br>
+			
+			<button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+			
+	</form>
