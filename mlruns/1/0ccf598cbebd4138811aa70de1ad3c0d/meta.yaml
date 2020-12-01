@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pc/Documents/GitHub/Bit-Optimization-ML/mlruns/1/0ccf598cbebd4138811aa70de1ad3c0d/artifacts
+end_time: 1602569558699
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 0ccf598cbebd4138811aa70de1ad3c0d
+run_uuid: 0ccf598cbebd4138811aa70de1ad3c0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1602569557804
+status: 3
+tags: []
+user_id: Diego

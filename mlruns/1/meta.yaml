@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/pc/Documents/GitHub/Bit-Optimization-ML/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: boston1
